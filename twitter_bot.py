@@ -8,9 +8,7 @@ Original file is located at
 """
 
 import random
-
 print(random.randint(0,4))
-
 print(random.randint(0,4))
 
 part1=["a","b","c","d","q","u"]
